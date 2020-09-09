@@ -1,3 +1,9 @@
+THIS IS JUST A CLONE OF YOUTUBE NOT FULLY FUNCTIONAL UNTIL NOW BUT WOULD ADD DETAILS AS I LEARN MORE
+
+
+
+## SETUP INSTRUCTIONS
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
