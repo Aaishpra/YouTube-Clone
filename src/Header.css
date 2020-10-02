@@ -12,6 +12,7 @@
     height: 25px;
     object-fit: contain;
     margin-left: 20px;
+    border: red;
 }
 .header_input {
     display: flex;
@@ -31,7 +32,7 @@
 .header_icons {
     display: flex;
     align-items: center;
-    
+    background-color: pink:
 }
 .header_input > input {
     flex: 1;
