@@ -1,6 +1,7 @@
 
 
-
+# YouTube Clone
+This is just the frontend of the Clone made using react.
 
 ## SETUP INSTRUCTIONS
 
